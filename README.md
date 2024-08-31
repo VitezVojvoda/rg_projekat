@@ -10,13 +10,13 @@ A - Cubemaps
 3. ALT+SHIFT+F10 -> project_base -> run
 
 # Kontrole:
-W - napred
-A - levo
-S - nazad
-D - desno
-scrool - zoom in/out
-Q - spotlight on/off
-ESC - izlaz
+W - napred  
+A - levo  
+S - nazad  
+D - desno  
+scrool - zoom in/out  
+Q - spotlight on/off  
+ESC - izlaz  
 
 # Resouces:
 https://unsplash.com/photos/brown-sands-n5HOJGtYt4Q - sand
