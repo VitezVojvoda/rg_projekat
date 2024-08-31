@@ -19,6 +19,6 @@ Q - spotlight on/off
 ESC - izlaz  
 
 # Resouces:
-https://unsplash.com/photos/brown-sands-n5HOJGtYt4Q - sand
-https://www.eso.org/public/news/eso0932/ - sky
-https://jaxry.github.io/panorama-to-cubemap/ - skybox conversion
+https://unsplash.com/photos/brown-sands-n5HOJGtYt4Q - sand  
+https://www.eso.org/public/news/eso0932/ - skybox  
+https://jaxry.github.io/panorama-to-cubemap/ - skybox converter  
