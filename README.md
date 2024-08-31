@@ -14,7 +14,7 @@ W - napred
 A - levo  
 S - nazad  
 D - desno  
-scrool - zoom in/out  
+scroll - zoom in/out  
 Q - spotlight on/off  
 ESC - izlaz  
 
