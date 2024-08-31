@@ -1,0 +1,22 @@
+# Blender 4.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl LanternIron
+Ns 411.820343
+Ka 0.692913 0.692913 0.692913
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd black.png
+
+newmtl LanternLight
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.272727
+illum 9
+map_Kd lightcolor.png
